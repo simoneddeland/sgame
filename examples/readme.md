@@ -1,0 +1,2 @@
+# Examples
+Many of the audio and image files in the examples are in the public domain, created by Kenney and available at [http://kenney.nl/assets](http://kenney.nl/assets). The music in Tank Driver is also in the public domain, created by SketchyLogic and available at [OpenGameArt](http://opengameart.org/content/nes-shooter-music-5-tracks-3-jingles)

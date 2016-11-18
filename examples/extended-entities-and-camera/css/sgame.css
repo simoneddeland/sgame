@@ -1,0 +1,15 @@
+#sgame {
+  border:1px solid #999;
+  background-color:#000;
+}
+
+#sgamecontainer {
+  position: relative;
+}
+
+#sgameloading {
+  position: absolute;
+  display: none;
+  left: 0;
+  top: 0;
+}

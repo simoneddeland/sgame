@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<title>SGame</title>
+<link rel="stylesheet" type="text/css" href="css/sgame.css">
+</head>
+<body>
+
+<div id="sgamecontainer">
+  <canvas id="sgame" width="800" height="600">
+    Your browser does not support the element HTML5 Canvas.
+  </canvas>
+  <img id="sgameloading" src="img/gears.svg">
+</div>
+<p>
+  Move the tank with WASD or the arrow keys. The camera will follow the tank. The tank can't drive through the trees (collision check with rotated rectangles).
+</p>
+
+<script src="js/lib/jquery.min.js"></script>
+<script src="js/lib/howler.min.js"></script>
+<script src="js/lib/sgame.min.js"></script>
+<script src="js/lib/sgame-extended.min.js"></script>
+<script src="js/main.js"></script>
+
+</body>
+</html> 

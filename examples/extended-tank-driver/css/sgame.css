@@ -1,0 +1,40 @@
+#sgame {
+  border:1px solid #999;
+  background-color:#000;
+}
+
+#sgamecontainer {
+  position: relative;
+  margin: auto;
+  width: 800px;
+}
+
+#sgameloading {
+  position: absolute;
+  display: none;
+  left: 0;
+  top: 0;
+}
+
+body {
+  background-color: #eee;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #444;
+  padding: 0;
+  margin: 0;
+}
+
+.maincontainer {
+  width: 960px;
+  margin: auto;
+  margin-top: 0;
+  background-color: #fff;
+}
+
+main {  
+  padding: 20px 40px;
+}
+
+.centertext {
+  text-align: center;
+}
